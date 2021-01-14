@@ -42,7 +42,7 @@ In another terminal run Django development server
 ```
 ./manage.py runserver
 ```
-The development server will run at `http://127.0.0.1:8000/`. Visit is to see the result.
+The development server will run at `http://127.0.0.1:8000/`. Visit it to see the result.
 
 ## Advices
 - These steps are for a Linux environment. For other operating systems, make the necessary adjustments to the commands.
